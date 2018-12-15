@@ -25,3 +25,13 @@ For example if I wanted to search information about the movie, "Lion King", this
 Essentially, "node liri.js" will be the same and will be required before every command. 
 
 Thats all there is to it, enjoy. 
+
+![liri pic 1](images/LIRI-PIC1.png)
+![liri pic 2](images/LIRI-PIC2.png)
+![liri pic 3](images/LIRI-PIC3.png)
+![liri pic 4](images/LIRI-PIC4.png)
+![liri pic 5](images/LIRI-PIC5.png)
+![liri pic 6](images/LIRI-PIC6.png)
+![liri pic 7](images/LIRI-PIC7.png)
+![liri pic 8](images/LIRI-PIC8.png)
+![liri pic 9](images/LIRI-PIC9.png)
